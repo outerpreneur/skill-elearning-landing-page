@@ -1,9 +1,11 @@
 import React from "react";
+import darkLogo from "../assets/logo-dark.svg";
 
 export default function Header() {
   return (
-    <header>
-      <h1>Header</h1>
+    <header className="header">
+      <img src={darkLogo} className="header__logo" alt="logo" />
+      <button className="header__button">Get Started</button>
     </header>
   );
 }
