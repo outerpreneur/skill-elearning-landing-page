@@ -8,9 +8,9 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <body className="body-background page-width">
+    <body className="body-background  font-plus-jackarta">
       <Header />
-      <main>
+      <main className="page-width">
         <Hero />
         <Grid />
       </main>
