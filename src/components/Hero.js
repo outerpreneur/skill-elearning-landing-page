@@ -1,5 +1,7 @@
 import React from "react";
 import imageHero from "../assets/image-hero-desktop.png";
+import imageHeroMobile from "../assets/image-hero-mobile.png";
+import imageHeroTablet from "../assets/image-hero-tablet.png";
 
 export default function Hero() {
   return (
@@ -15,7 +17,12 @@ export default function Hero() {
         <button className="hero__button">Get Started</button>
       </div>
       <div className="hero__column-2">
-        <img src={imageHero} className="hero__image" alt="hero" />
+        <picture>
+          <source media="(max-width: 768px)" srcSet={imageHeroMobile} />
+          <source media="(max-width: 1024px)" srcSet={imageHeroTablet} />
+          <source media="(min-width: 1025px)" srcSet={imageHero} />
+          <img src={imageHero} className="hero__image" alt="hero" />
+        </picture>
       </div>
     </section>
   );
