@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/skill-elearning-landing-page/static/css/main.a2983c4d.css",
+    "main.js": "/skill-elearning-landing-page/static/js/main.02909226.js",
+    "static/js/453.48e57520.chunk.js": "/skill-elearning-landing-page/static/js/453.48e57520.chunk.js",
+    "static/media/image-hero-desktop.png": "/skill-elearning-landing-page/static/media/image-hero-desktop.e4dcc5c0b95534d1178e.png",
+    "static/media/image-hero-tablet.png": "/skill-elearning-landing-page/static/media/image-hero-tablet.1f330de35298314c6430.png",
+    "static/media/image-hero-mobile.png": "/skill-elearning-landing-page/static/media/image-hero-mobile.e24fb846538770420c24.png",
+    "static/media/logo-dark.svg": "/skill-elearning-landing-page/static/media/logo-dark.bd6dbe3fb81a86888ece82aa3764d1a4.svg",
+    "static/media/logo-light.svg": "/skill-elearning-landing-page/static/media/logo-light.9fb3a720f1b85b9ed9991de94726c34b.svg",
+    "static/media/icon-animation.svg": "/skill-elearning-landing-page/static/media/icon-animation.222979d47fd2dbbc9a215695c907fd93.svg",
+    "static/media/icon-crypto.svg": "/skill-elearning-landing-page/static/media/icon-crypto.8d407fcff65885d92537a9d941d476d4.svg",
+    "index.html": "/skill-elearning-landing-page/index.html",
+    "static/media/icon-business.svg": "/skill-elearning-landing-page/static/media/icon-business.e1585951503a38781a9919e3ade6a40e.svg",
+    "static/media/icon-photography.svg": "/skill-elearning-landing-page/static/media/icon-photography.eeaad81e7533c8103b7235301dce7c03.svg",
+    "static/media/icon-design.svg": "/skill-elearning-landing-page/static/media/icon-design.06f787d808ae5438fdfee22122ff6424.svg",
+    "main.a2983c4d.css.map": "/skill-elearning-landing-page/static/css/main.a2983c4d.css.map",
+    "main.02909226.js.map": "/skill-elearning-landing-page/static/js/main.02909226.js.map",
+    "453.48e57520.chunk.js.map": "/skill-elearning-landing-page/static/js/453.48e57520.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2983c4d.css",
+    "static/js/main.02909226.js"
+  ]
+}
